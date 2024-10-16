@@ -1,19 +1,11 @@
-'''
-Honor Code Statement
-Name: Benjamin Nguyen
-Assignment: PA 5
-Due Date: 11/6
-Honor Code Statement: I received no assistance on this assignment that
-violates the ethical guidelines set forth by professor and class syllabus.
+# Formatting of 
+# inventory =(
+#         ['Potato',['sweet', 9.0], [230,'26D']], 
+#         ['Bread', ['bakery','organic','whole wheat',0.5], [ 800, '21C']], 
+#         ['Shrimp', ['frozen foods', 'large', 3.0], [75, '51A']], 
+#         ['Ice cream',['dairy', 'choclate', 0.25],[215, '9E']],
+#         ['Apple', ['fruits', 'non-GMO', 5.0], [1540, '37B']])
 
-Comments and Assumptions: A note to the grader as to any problems or
-uncompleted aspects of the assignment, as well as any assumptions.
-You can write in N/A if you dont have any comments/assumptions.
-
-#NOTE:   width of source code should be <=80 characters to be readable on-screen.
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-'''
-# Insert your header comment here
 
 def update_inventory(dict1, restock=None):  # Figure out the parameters and add
     # to the function signature
